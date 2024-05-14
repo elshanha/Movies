@@ -1,2 +1,2 @@
-The Movies app that built in Kotkin using Jetpack Compose.
+The Movies app that built in Kotlin using Jetpack Compose.
 
